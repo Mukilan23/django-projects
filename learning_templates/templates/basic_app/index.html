@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+{% extends "basic_app/base.html" %}
+
+{% block body_block%}
+<h1>Hey...! This is the homepage</h1>
+<h1>I'm testing the template inheritance</h1>
+<h1>{{ text|cut:'World' }}</h1>
+<h1>{{ number|add:"99" }}</h1>
+{% endblock %}

@@ -1,0 +1,13 @@
+h1{
+  color: red;
+
+}
+
+img{
+  border-radius: 999%;
+  margin-left: 50px;
+}
+
+.django_table{
+  border: 2px solid black;
+}

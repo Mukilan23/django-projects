@@ -1,0 +1,11 @@
+body {
+
+  overflow: hidden;
+  background-color: black;
+  color:white;
+}
+a#brand.navbar-brand.mynav{
+      margin-left: 190px;
+      margin-top: 17px;
+      font-size: 42px;
+  }
